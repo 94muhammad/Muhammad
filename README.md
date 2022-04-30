@@ -4,7 +4,7 @@ Hi 👋 My name is Muhammad Uzair
 Data Scientist
 --------------
 
-I have been learning to code for a couple of years after switching careers. I started with python and found myself passionate about data science. However, i am expanding my horizon and planning to learn front-end development as well.
+I have been learning to code for a couple of years after switching careers. I started with python and found myself passionate about data science. However, i am expanding my horizon and learning front-end development alongside.
 
 * 🌍  I'm based in United Kingdom
 * ✉️  You can contact me at [uzaiirr@outlook.com](mailto:uzaiirr@outlook.com)
