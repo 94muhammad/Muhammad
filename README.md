@@ -1,8 +1,5 @@
-Hi 👋 My name is Muhammad
+Hi 👋
 ===============================
-
-Data Scientist
---------------
 
 I am a developer with a strong foundation in data science and a growing expertise in front-end development.
 
